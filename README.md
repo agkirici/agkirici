@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agkirici&label=Profile%20views&color=0e75b6&style=flat" alt="agkirici" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wanderlst_" target="blank"><img src="https://img.shields.io/twitter/follow/wanderlst_?logo=twitter&style=for-the-badge" alt="wanderlst_" /></a> </p>
-
 - 🔭 I’m currently working on **Python Projects”**
 
 - 🌱 I’m currently learning **Python,SQL, C++**
