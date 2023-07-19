@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wanderlst_" target="blank"><img src="https://img.shields.io/twitter/follow/wanderlst_?logo=twitter&style=for-the-badge" alt="wanderlst_" /></a> </p>
 
-- 🔭 I’m currently working on **Instagram Clone Application “ExpressGram”**
+- 🔭 I’m currently working on **Python Projects”**
 
 - 🌱 I’m currently learning **Python,SQL, C++**
 
@@ -23,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wanderlst_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wanderlst_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arzu kirici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arzu kirici" height="30" width="40" /></a>
 <a href="https://instagram.com/arzukrc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arzukrc_" height="30" width="40" /></a>
 </p>
