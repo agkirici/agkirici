@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Python Projects”**
 
-- 🌱 I’m currently learning **Python,SQL, C++**
+- 🌱 I’m currently learning **Python, SQL, C++**
 
-- 👯 I’m looking to collaborate on **Data analytics projects**
+- 👯 I’m looking to collaborate on **Data Analytics Projects**
 
-- 💬 Ask me about **technology and biological sciences**
+- 💬 Ask me about **Technology and Biological Sciences**
 
 - 📫 How to reach me **arzukirici@gmail.com**
 
