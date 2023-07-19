@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Arzu Kirici</h1>
 <h3 align="center">A passionate developer in Toronto with a background in Moleculer Biology and Genetics </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
@@ -17,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16KPyOdRky8m961JL_sr_e8nB_Dwbvcgu/view?usp=sharing](https://drive.google.com/file/d/16KPyOdRky8m961JL_sr_e8nB_Dwbvcgu/view?usp=sharing)
 
-- ⚡ Fun fact **I'm scientist**
+- ⚡ Fun fact **I'm a scientist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
