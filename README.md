@@ -1,4 +1,4 @@
-![MasterHead](https://www.cpsc.gov/s3fs-public/Data_HeroImage.png)
+
 <h1 align="center">Hi 👋, I'm Arzu Kirici</h1>
 <h3 align="center">A passionate developer in Toronto with a background in Moleculer Biology and Genetics </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
