@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agkirici&label=Profile%20views&color=0e75b6&style=flat" alt="agkirici" /> </p>
 
-- 🔭 I’m currently working on **Python Projects”**
+- 🔭 I’m currently working on **Python Projects**
 
 - 🌱 I’m currently learning **Python, SQL, C++**
 
