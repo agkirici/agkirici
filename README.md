@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **arzukirici@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16KPyOdRky8m961JL_sr_e8nB_Dwbvcgu/view?usp=sharing](https://drive.google.com/file/d/16KPyOdRky8m961JL_sr_e8nB_Dwbvcgu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16KPyOdRky8m961JL_sr_e8nB_Dwbvcgu/view?usp=sharing](https://drive.google.com/file/d/16KPyOdRky8m961JL_sr_e8nB_Dwbvcgu/view?usp=sharing](https://drive.google.com/file/d/1cAi5zaIIpQQfZiqJKUhTPAroCqimbA2i/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a scientist**
 
