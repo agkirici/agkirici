@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Python, SQL, C++**
+- 🌱 I’m currently learning **Python, SQL, R programming, C++**
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects**
 
