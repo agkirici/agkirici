@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agkirici&label=Profile%20views&color=0e75b6&style=flat" alt="agkirici" /> </p>
 
-- 🔭 I’m currently working on **100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu and 15 Days of SQL: The Complete SQL Masterclass by Nikolai Schuler at Udemy**
+- 🔭 I’m currently working on ;
+  **100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu** and
+  **15 Days of SQL: The Complete SQL Masterclass by Nikolai Schuler at Udemy**
 
 - 🌱 I’m currently learning **Python, SQL**
 
