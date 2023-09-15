@@ -5,7 +5,6 @@
 &nbsp; <a href="https://linkedin.com/in/arzu-kirici" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:arzukirici@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
 ### Welcome to my Github page! I am Arzu and I am currently for Data Scientist Roles in Toronto! 
 
 
