@@ -1,6 +1,6 @@
 ### Hi There👋, 
 ### This is Arzu Kirici
-### Data Science and Research enthusiast in Toronto
+### Welcome to my Github page! I am Arzu and I am currently for Data Scientist Roles in Toronto! 
 
 <p> 
 &nbsp; <a href="https://instagram.com/arzukrc_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
-Welcome to my Github page! I am Arzu and I am currently for Data Scientist Roles in Toronto! 
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
