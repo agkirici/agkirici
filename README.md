@@ -7,7 +7,7 @@
 &nbsp; <a href="mailto:arzukirici@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-### Welcome to my Github page! I am Arzu and I am currently for Data Scientist Roles in Toronto! 
+### Welcome to my Github page! I am Arzu and I am currently for Data Scientist and Bioinformatician Roles in Toronto! 
 
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
@@ -22,9 +22,10 @@
 #### ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 #### 🌱 Things I am currently working on: 
-- Taking online courses about Data Science and Machine Learning 
+- Taking online courses about Data Science and  Bioinformatics
 - Python bootcamp projects on (https://github.com/agkirici/PyhtonBootcamp) 🚀 *coming soon*
 - SQL bootcamp projects on (https://github.com/agkirici/SQLBootcamp) 🚀 *coming soon*
+- R programming projects 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
