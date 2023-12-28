@@ -24,7 +24,6 @@
 #### 🌱 Things I am currently working on: 
 - Taking online courses about Data Science and  Bioinformatics
 - Python bootcamp projects on (https://github.com/agkirici/PyhtonBootcamp) 🚀 *coming soon*
-- SQL bootcamp projects on (https://github.com/agkirici/SQLBootcamp) 🚀 *coming soon*
 - R programming projects 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
