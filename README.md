@@ -18,7 +18,7 @@
 #### I work as a Project Analyst at Astraea Bio and as a Data Analyst on the executive committee of Panoramics A-Vision.
 #### 🤔 &nbsp;Exploring new technologies and developing software solutions and quick hacks.
 
-#### ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+#### ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
@@ -26,9 +26,6 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript  
 - 🛢 &nbsp; MySQL | PL/SQL 
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
-
-
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=agkirici&show_icons=true&hide_border=true" />
 
 <h3 align="left">Languages and Tools:</h3>
 </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
