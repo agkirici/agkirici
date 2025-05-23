@@ -7,7 +7,7 @@
 &nbsp; <a href="mailto:arzukirici@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-### Welcome to my Github page! I am Arzu and I am currently for Data Scientist and Bioinformatician Roles in Toronto! 
+### Welcome to my Github page! I am Arzu and I am currently looking for a Bioinformatician and Software Roles in Toronto! 
 
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
@@ -15,29 +15,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-####  👯 I’m looking to collaborate on Kaggle projects.
-
+#### I work as a Project Analyst at Astraea Bio and as a Data Analyst on the executive committee of Panoramics A-Vision.
 #### 🤔 &nbsp;Exploring new technologies and developing software solutions and quick hacks.
 
 #### ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-#### 🌱 Things I am currently working on: 
-- Taking online courses about Data Science and  Bioinformatics
-- Python bootcamp projects on (https://github.com/agkirici/PyhtonBootcamp) 🚀 *coming soon*
-- R programming projects 🚀 *coming soon*
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 1 hours a day
-- Improving my CV with some education apart from college
-  
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | R programming | C++  
+- 💻 &nbsp; Python | R programming  
 - 🌐 &nbsp; HTML | CSS | JavaScript  
 - 🛢 &nbsp; MySQL | PL/SQL 
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Power BI
+
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=agkirici&show_icons=true&hide_border=true" />
 
